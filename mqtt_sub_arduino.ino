@@ -1,5 +1,6 @@
 #include <PubSubClient.h>
 #include <Ethernet.h>
+#include <SPI.h>
 
 
 // Enter a MAC address for your controller below.
